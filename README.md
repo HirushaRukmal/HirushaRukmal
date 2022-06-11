@@ -6,6 +6,10 @@
 
 👨🏻‍💻 Trainee Software Engineer, LOLC Technologies
 
+
+
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
