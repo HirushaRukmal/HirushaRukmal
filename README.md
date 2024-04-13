@@ -2,6 +2,6 @@
 
 ### Hi there I'm Hirusha Rukmal👋
 
-🎓 Software Engineering Undergraduate, SLIIT
+🎓 Software Engineering Graduate, SLIIT
 
 👨🏻‍💻 Trainee Software Engineer, LOLC Technologies
