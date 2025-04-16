@@ -2,6 +2,6 @@
 
 ### Hi there I'm Hirusha Rukmal👋
 
-🎓 Software Engineering Graduate, SLIIT
+🎓 Masters of Information Technology, Deakin University
 
-👨🏻‍💻 Trainee Software Engineer, LOLC Technologies
+👨🏻‍💻 Former Trainee Software Engineer, LOLC Technologies
